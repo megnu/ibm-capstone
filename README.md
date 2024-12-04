@@ -1,2 +1,2 @@
-Capstone Project: Cognos Dashboard
+# Capstone Project: Cognos Dashboard
 IBM Data Analyst Professional Certificate
